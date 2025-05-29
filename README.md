@@ -1,14 +1,16 @@
 # 🐍 Snake Game — React.js
 
 A classic Snake game implemented using **React.js**, showcasing dynamic rendering, state management, and custom hooks.
+screenshot :
+![image](https://github.com/user-attachments/assets/77e08cef-abb3-4b28-bf16-3d44116e7faf)
 
-![Snake Game Screenshot](./screenshots/snake-game-demo.png)
 
 ---
 
 ## 🎮 Demo
 
 Play the game live here: [https://nesrinesnakegame.netlify.app]
+it works on mobile too
 
 ---
 
